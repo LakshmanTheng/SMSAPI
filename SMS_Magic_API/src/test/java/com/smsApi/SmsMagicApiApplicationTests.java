@@ -1,0 +1,13 @@
+package com.smsApi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SmsMagicApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
